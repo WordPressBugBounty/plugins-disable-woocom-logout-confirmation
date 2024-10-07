@@ -1,0 +1,1 @@
+# plugins-disable-woocom-logout-confirmation
