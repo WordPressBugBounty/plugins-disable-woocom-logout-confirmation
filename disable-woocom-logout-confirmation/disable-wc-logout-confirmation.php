@@ -6,7 +6,7 @@
  * Version: 1.2
  * Author: Hem Thapa
  * Author URI: https://hemthapa.com/
- * WC tested up to: 8.0.2
+ * WC tested up to: 9.3.3
  */
 
 function disable_wc_logout_confirmation(){
